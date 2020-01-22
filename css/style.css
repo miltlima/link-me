@@ -1,0 +1,42 @@
+body {
+    background-image: url('../img/lake.jpg');
+    /* Faz a imagem caber na tela */
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color:white;
+}
+.profile{
+    border-radius: 360px;
+    width: 20%;
+    border: 5px solid white;
+}
+.p{
+    font-family: 'Segoe UI'
+    font-size: 50px;
+}
+.link{
+    text-decoration: none;
+    font-family: 'Segoe UI'
+    color: white;
+}   
+/* o Hover é utilizado para mudar a cor do objeto quando o mouse passa por cima */
+.link:hover{
+    text-decoration: none;
+    color: rgb(70, 199, 250);
+    font-size: 20px;
+}
+.space{
+    margin-right: 30px;
+}
+.btn{
+    border: 1px solid transparent ;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    color: #fff;
+    background-color: #007bff;
+    border-color:#007bff;
+
+}
