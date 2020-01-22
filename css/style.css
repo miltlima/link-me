@@ -6,7 +6,7 @@ header {
     position: relative;
     width: 100%;
     height: 100%;
-    background-image: url('../img/lake.jpg');
+    background-image: url('../img/bbr2.jpg');
     background-repeat: no-repeat;
     /* Faz a imagem caber na tela */
     background-size: cover;
@@ -47,4 +47,10 @@ header {
 }
 .space-top{
     padding-top: 25px;
+}
+@font-face{
+    font-family: ;
+}
+.space-margin{
+    margin-bottom: 10px;
 }
