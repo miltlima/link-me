@@ -26,7 +26,7 @@ body {
 /* o Hover é utilizado para mudar a cor do objeto quando o mouse passa por cima */
 .link:hover{
     text-decoration: none;
-    color: rgb(0, 92, 128);
+    color: wheat
     font-size: 20px;
 }
 .space{
