@@ -22,7 +22,14 @@ header {
 @media (min-width: 768px){
     .profile{
         border-radius: 100%;
-        width: 30%;
+        width: 25%;
+        border: 5px solid white;
+    }
+}
+@media (max-width: 515.78px){
+    .profile{
+        border-radius: 100%;
+        width: 25%;
         border: 5px solid white;
     }
 }
