@@ -39,7 +39,7 @@ header {
 /* o Hover é utilizado para mudar a cor do objeto quando o mouse passa por cima */
 .link:hover{
     text-decoration: none;
-    color: wheat
+    color: rgb(72, 60, 44)C;
     font-size: 20px;
 }
 .space{
@@ -48,9 +48,16 @@ header {
 .space-top{
     padding-top: 25px;
 }
-@font-face{
-    font-family: ;
-}
 .space-margin{
     margin-bottom: 10px;
+}
+@font-face {
+    font-family: 'Avenir';
+    src: url(' fonts/Avenir.ttc ');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font{
+    font-family: "Avenir";
 }
